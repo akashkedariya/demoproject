@@ -1,0 +1,165 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    height: 57px;
+
+}
+a{
+    text-decoration: none;
+    padding: 30px;
+    color: black;
+}
+.sec2
+{
+    box-sizing: border-box;
+    width: 100%;
+    height: 900px;
+    background-size: cover;
+    background-image: url("dddd-min.jpg");
+    display: flex;
+    flex-direction: column;
+    padding-left: 900px;
+    text-align: center;
+    padding-top: 300px;
+}
+
+.os
+{
+font-weight: bold;
+font-size: small;
+margin-bottom: 10px;
+}
+
+.bd
+{
+font-weight: bold;
+font-size: 50px;
+}
+
+.wrap1
+{    
+display: flex;
+justify-content: center;
+margin-top: 15px;
+}
+.or{
+    margin: 0 45px;
+    margin-top: 15px;
+    
+}
+.au
+{
+font-size: 20px;
+border-style: solid ;
+padding: 15px;
+}
+.con
+{
+font-size: 20px; 
+border-style: solid ;
+padding: 15px;   
+}
+.section2
+{
+    box-sizing: border-box;
+    width: 100%;
+    height: 200px;
+}
+.titlesec2
+{
+    width: 700px;
+    text-align: center;
+    font-size: 50px;
+    margin: 0 auto;
+    margin-top: 90px;
+
+}
+.section3
+{
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.schild img
+{
+ margin: 0 auto;
+}
+.schild{
+    text-align: center;
+    width: 205px;
+    
+}
+.Head
+{
+margin-top: 20px;
+font-weight : bold;
+}
+.Text1
+{
+margin-top: 30px;
+}
+.section4{
+    
+        display: flex;
+        justify-content: center;
+        margin-left: 50px;
+        width: fit-content;
+        margin-top: 15px;
+        margin-left: 600px;
+    }
+ .section5 {
+            margin-left:40px;
+            display:flex;
+            
+            
+        
+          }
+  img{
+      width: 300px;
+      }
+   .schild1{
+       font-size: 40px;
+       margin-left: 40px;
+   } 
+   .c1{
+       margin-top: 30px;
+       font-size: 30px;
+   }
+   .schild2{
+    font-size: 40px;
+    margin-left: 15px;
+    }
+  .schild3 img{
+      margin-left: 60px;
+      padding: 80px;
+      height: 600px;
+      width:700px;
+  }         
+   .sec11{
+       font-size: 60px;
+   }
+   .sec22{
+       font-size: 20px;
+   }       
+   
+    .s1{
+        
+        box-sizing: border-box;
+        display: flex;
+        flex-direction: column;
+    }
+    .section7{
+        margin-top:10px;
+        margin-left: 0px;
+        padding: 80px;
+        height: 900px;
+        width:900px;
+    }
+    .sec33{
+        justify-content: space-between;
+    }
+
+  
+
